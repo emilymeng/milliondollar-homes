@@ -1,0 +1,17 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "proactive-eruption"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2017/business/million-homes"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "slug": "",
+  "tags": []
+}
